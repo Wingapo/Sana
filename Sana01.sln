@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinearExpressions1", "LinearExpressions1\LinearExpressions1.csproj", "{8A313B60-5DE9-4BC4-8406-14A211C371B7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinearExpressions2", "LinearExpressions2\LinearExpressions2.csproj", "{26AC5028-62AA-41AC-82F6-341E17140413}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{8A313B60-5DE9-4BC4-8406-14A211C371B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A313B60-5DE9-4BC4-8406-14A211C371B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A313B60-5DE9-4BC4-8406-14A211C371B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26AC5028-62AA-41AC-82F6-341E17140413}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26AC5028-62AA-41AC-82F6-341E17140413}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26AC5028-62AA-41AC-82F6-341E17140413}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26AC5028-62AA-41AC-82F6-341E17140413}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
